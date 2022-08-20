@@ -8,3 +8,6 @@ if you don't already have python, install from here: https://www.python.org/down
 after that, pip install pygame library
 
 TO PIP INSTALL: open command prompt app and type: pip install pygame
+
+extract all the files into the same folder.
+to run the program, go to the folder location using python to open the python file.
