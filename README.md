@@ -1,4 +1,4 @@
-# OpenSourceProjects
+# Race Car Dashboard
 Python Projects created by Kenneth Griffin
 
 The python program was made with pygame version 2.1.2 and python version 3.10.6
